@@ -1,14 +1,16 @@
 ---
 title: Workshops
-featured_image: "images/notebook.jpg"
+featured_image: images/notebook.jpg
 omit_header_text: true
-description: Private in-home workshops are now available in the Adelaide metropolitan area.
+description: Private in-home workshops are now available in the Adelaide metropolitan
+  area.
 type: page
-menu: main
-weight: 3
+weight: "3"
+menu:
+  main:
+    weight: 3
 
 ---
-
 **Do you want to learn how to cross stitch? Do you want to learn the skills required to make your own beautiful hand embroidery? Then gather a group of friends together and let me show you how. You supply the venue and the coffee, I'll provide everything else.**
 
 Private in-home workshops are now available in the Adelaide metropolitan area. I will come to you to teach you how to cross stitch or embroider. All you need is a table big enough for your group and an iron and ironing board, and I will supply all the materials and tools needed for you to complete your project.

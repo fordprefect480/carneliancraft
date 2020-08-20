@@ -1,47 +1,41 @@
-title = "Carnelian Craft"
+DefaultContentLanguage = "en"
+Paginate = 3
+SectionPagesMenu = "main"
 baseURL = "https://example.com"
+enableRobotsTXT = true
+googleAnalytics = "UA-116059715-1"
 languageCode = "en-us"
 theme = "ananke"
-
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = "UA-116059715-1"
-enableRobotsTXT = true
-
-[taxonomies]
-  tag = "tags"
-
-[[menu.main]]
-  name = "Free Patterns"
-  url = "/tags/free-patterns/"
-  weight = 4
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
-
-[params]
-  favicon = ""
-  site_logo= "/img/logo.png"
-  description = "Embroidery and cross stitch // patterns and hoop art // reviews and events"
-  facebook = "https://www.facebook.com/carneliancraft"
-  twitter = ""
-  instagram = "https://www.instagram.com/carnelian_craft/"
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  rss = ""
-  background_color_class = "bg-carnelian"
-  featured_image = "/img/home-splash.jpg"
-  recent_posts_number = 2
-  custom_css = ["css/site.css"]
-  body_classes = "bg-near-white"
-
+title = "Carnelian Craft"
 [markup.goldmark.renderer]
-  unsafe= true
+unsafe = true
+[[menu.main]]
+name = "Free Patterns"
+url = "/tags/free-patterns/"
+weight = 2
+[params]
+background_color_class = "bg-carnelian"
+body_classes = "bg-near-white"
+custom_css = ["css/site.css"]
+description = "Embroidery and cross stitch // patterns and hoop art // reviews and events"
+facebook = "https://www.facebook.com/carneliancraft"
+favicon = ""
+featured_image = "/img/home-splash.jpg"
+github = ""
+gitlab = ""
+instagram = "https://www.instagram.com/carnelian_craft/"
+linkedin = ""
+mastodon = ""
+recent_posts_number = 2
+rss = ""
+site_logo = "/img/logo.png"
+slack = ""
+stackoverflow = ""
+twitter = ""
+youtube = ""
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
+[taxonomies]
+tag = "tags"
