@@ -1,12 +1,12 @@
 ---
-title: Gallery
-featured_image: "images/notebook.jpg"
 omit_header_text: true
-description: See what I've been up to.
-type: page
-menu: main
+featured_image: images/notebook.jpg
+title: Gallery
+intro: Test?
 weight: 2
-
+type: page
+description: See what I've been up to.
+menu: main
 ---
 
 Take a look at some of my previous work.
