@@ -16,4 +16,5 @@ fields:
   name: featured_image
   label: featured_image
 pages:
+- content/posts/im-back.md
 - content/posts/private-embroidery-workshops-now-available.md
