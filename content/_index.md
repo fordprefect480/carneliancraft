@@ -11,6 +11,6 @@ When you wander around this website, you’ll find an eclectic selection of tuto
 
 Thanks for stopping by, and don’t forget to check out Lara Makes on Instagram and Facebook.
 
-![](/uploads/xlara-pagespeed-ic-b39otkq2sm.jpg)
+![](/uploads/lara.jpg)
 
 Lara xo
