@@ -10,7 +10,9 @@ tags:
 featured_image: "/uploads/butterfly-featured.jpg"
 
 ---
-Last year I visited a butterfly sanctuary in Malaysia. The butterflies there seemed to be attracted to me, and I had several land on me. I was honoured. This cross stitch pattern is gorgeous. It features a cute butterfly with blue floral accents. The pattern comes with a complete alphabet so you can personalise it as you wish. 
+Last year I visited a butterfly sanctuary in Malaysia. The butterflies there seemed to be attracted to me, and I had several land on me. I was honoured. 
+
+This cross stitch pattern is gorgeous. It features a cute butterfly with blue floral accents. The pattern comes with a complete alphabet so you can personalise it as you wish. 
 
 ![](/uploads/butterfly-hoop.jpg)
 
