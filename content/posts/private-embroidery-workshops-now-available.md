@@ -1,6 +1,5 @@
 +++
 date = 2018-09-18T14:30:00Z
-draft = true
 featured_image = "/uploads/private-workshops-featured-2.jpg"
 tags = []
 title = "Private Embroidery Workshops Now Available"
