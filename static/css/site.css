@@ -43,6 +43,11 @@ img[src~="gallery"] {
     max-height: none !important;
   }
 }
+
+.contact-form article {
+  width:100%;
+}
+
  /**************************\
   Basic Modal Styles
 \**************************/
