@@ -1,7 +1,7 @@
 DefaultContentLanguage = "en"
 Paginate = 3
 SectionPagesMenu = "main"
-baseURL = "https://blue-dune-0818ed300.azurestaticapps.net"
+baseURL = ""
 enableRobotsTXT = true
 googleAnalytics = "UA-116059715-1"
 languageCode = "en-us"
