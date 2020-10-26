@@ -15,8 +15,6 @@ menu:
 
 Private in-home workshops are now available in the Adelaide metropolitan area. I will come to you to teach you how to cross stitch or embroider. All you need is a table big enough for your group and an iron and ironing board, and I will supply all the materials and tools needed for you to complete your project.
 
-{{< instagram Bo4-L-Nh8Ow hidecaption >}}
-
 Two workshop options are available: cross stitch and embroidery. Both are suitable for beginners.
 
 Learn to cross stitch
