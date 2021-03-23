@@ -19,7 +19,7 @@ In anticipation of waiting for the almond blossoms, I've made these cheery bookm
 
 ![](/uploads/almond-book-bookmarks.jpg)
 
-[Black & White](/almondblossombookmark_blackwhite_bylaramakes.pdf "almondblossombookmark_blackwhite_bylaramakes")  
-[Colour](/almondblossombookmark_colour_bylaramakes.pdf "almondblossombookmark_colour_bylaramakes")
+[Black & White](/uploads/almondblossombookmark_blackwhite_bylaramakes.pdf "almondblossombookmark_blackwhite_bylaramakes")  
+[Colour](/uploads/almondblossombookmark_colour_bylaramakes.pdf "almondblossombookmark_colour_bylaramakes")
 
 Lara xo
